@@ -21,6 +21,16 @@ body {
 
 .stats-container {
     display: flex;
+    align-items: center;
+    color:lightblue;
+    justify-content: center;
+    cursor: pointer;
+    /* No box-shadow here cause it would directly apply it to stats
+    container and thus it will always show instead of just when you hover */
+
+}
+.stats-container:hover{
+    box-shadow: 0 0 30px lightblue;
 }
 
 .stats-card {
