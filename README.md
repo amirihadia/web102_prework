@@ -19,7 +19,13 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-[![Demo Video](./webpageScreenshot.png)](./walkthrough.mp4)
+<div>
+    <a href="https://www.loom.com/share/1c763c14979d4d61b04de2ff1780449b">
+    </a>
+    <a href="https://www.loom.com/share/1c763c14979d4d61b04de2ff1780449b">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/1c763c14979d4d61b04de2ff1780449b-a22b719e41995a2d-full-play.gif">
+    </a>
+  </div>
 
 
 <!-- Replace this with whatever GIF tool you used! -->
