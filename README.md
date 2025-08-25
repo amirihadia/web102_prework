@@ -19,7 +19,8 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://www.loom.com/share/cde0e8ae098f464dba36d7dfd561dbac?sid=bf6a15e4-7912-4a7b-9e26-840087810a98' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[![Demo Video](./webpageScreenshot.png)](./walkthrough.mp4)
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
